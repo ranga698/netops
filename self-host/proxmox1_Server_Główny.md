@@ -8,7 +8,7 @@
 Instalujecie mały program, najlepiej w dokerze, załączacie skanowanie, wskazujecie urządzenie np. PS4 i gotowe.
 Teraz kiedy wyskoczy wam reklama, skrypt ją wyciszy a kiedy tylko będzie możliwość skipuje.
 
-####### **drobna uwaga**
+###### **drobna uwaga**
 program ten działa przez mDNS (unicast) więc w moim wypadku kiedy strukture miałem taką:
 proxmox -> LAN1 <--bridge na opnsense --> LAN2 -> PS4
 to niestety miał problem że znalezieniem PS4 (przeszkadzał proxmox ze swoim GIMP snooping).
