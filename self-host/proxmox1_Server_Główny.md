@@ -1,7 +1,7 @@
 # PROXMOX1
-## Jest to mój pierwszy serwer domowy, na którym mam najważniejsze rzeczy.
+### Jest to mój pierwszy serwer domowy, na którym mam najważniejsze rzeczy.
 
-## Jakie mam programy?
+### Jakie mam programy?
 
 ## [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV?tab=readme-ov-file)
 Świetne rozwiązanie dla osób upratych jak ja, które powiedziało sobie że nigdy nie zapłaci Youtubowi.
