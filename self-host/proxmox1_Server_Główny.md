@@ -3,7 +3,7 @@
 
 ## Jakie mam programy?
 
-### [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV?tab=readme-ov-file)
+## [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV?tab=readme-ov-file)
 Świetne rozwiązanie dla osób upratych jak ja, które powiedziało sobie że nigdy nie zapłaci Youtubowi.
 Instalujecie mały program, najlepiej w dokerze, załączacie skanowanie, wskazujecie urządzenie np. PS4 i gotowe.
 Teraz kiedy wyskoczy wam reklama, skrypt ją wyciszy a kiedy tylko będzie możliwość skipuje.
